@@ -1,2 +1,3 @@
 # LCD-font-generator
-LCD font generator GDEH042
+LCD font generator 
+In the fonts folder, generated Cyrillic font cp1251 for GDEH042
